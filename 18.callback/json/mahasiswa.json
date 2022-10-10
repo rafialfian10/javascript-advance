@@ -1,0 +1,37 @@
+[
+	{
+		"nama": "Rafi Alfian",
+		"nim": "A710170021",
+		"email": "a710170021@student.ums.ac.id",
+		"prodi": "Teknik Informatika",
+		"idDosenWali": "1"
+	},
+	{
+		"nama": "Rezqy Ade chandra",
+		"nim": "A710170038",
+		"email": "a710170038@student.ums.ac.id",
+		"prodi": "Teknik Informatika",
+		"idDosenWali": "2"
+	},
+	{
+		"nama": "Dawam Mahfudz",
+		"nim": "A710170043",
+		"email": "a710170043@student.ums.ac.id",
+		"prodi": "Teknik Informatika",
+		"idDosenWali": "3"
+	},
+	{
+		"nama": "Ali Zaenal Abidin",
+		"nim": "A710170016",
+		"email": "a710170016@student.ums.ac.id",
+		"prodi": "Teknik Informatika",
+		"idDosenWali": "4"
+	},
+	{
+		"nama": "Abdylla Adhiyasa Nugroho",
+		"nim": "A710170041",
+		"email": "a710170041@student.ums.ac.id",
+		"prodi": "Teknik Informatika",
+		"idDosenWali": "5"
+	}
+]
